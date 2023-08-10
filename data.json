@@ -37,21 +37,30 @@
    ],
 
 "download_dialog_txt":"download text from server",
-"banner_network_choice":"vungle", 
-"interstisial_network_choice":"vungle", 
-"reward_network_choice":"vungle",
-"native_network_choice":"admob"
+"banner_network_choice":"unity", 
+"interstisial_network_choice":"unity", 
+"reward_network_choice":"unity",
+"native_network_choice":"unity"
   
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"The world of gaming is a vast and evolving landscape, constantly giving birth to new experiences and challenges. Among the plethora of titles that have graced this realm, one that has piqued the interest of players and enthusiasts alike is "Barvikha." While details might be scarce, let us embark on a journey to uncover the essence of what "Barvikha" might represent in the gaming universe.
+
+ ",
+   "photo1":"https://iili.io/HDHGNn9.webp"},
+  {"desc2":"A Mysterious Introduction The name "Barvikha" conjures intrigue and curiosity, resonating with an air of mystique that tantalizes the imagination. Whether it's the moniker of an obscure indie gem or a hidden gem within a larger gaming franchise, "Barvikha" sounds like an invitation to an unexplored realm of adventure.","photo2":"https://iili.io/HDHGOGe.webp"},
+  {"desc3":"It's conceivable that "Barvikha" could be the name of a virtual world within a larger game. Many modern video games boast expansive open worlds where players can immerse themselves in a vibrant and interactive environment. Such worlds often include cities, towns, and unique locales for players to explore, each with its own culture, architecture, and stories. Could "Barvikha" be one such virtual destination, waiting to be uncovered?
+","photo3":"https://iili.io/HDHGjZ7.webp"},
+  {"desc4":"The suffix "RP" often stands for "role-playing," suggesting that "Barvikha RP" could be a game with a strong emphasis on immersing players in rich narratives and character interactions. Role-playing games allow players to assume the roles of characters within a fictional world, making decisions that impact the course of the story. In a "Barvikha RP" game, players might find themselves inhabiting the shoes of diverse individuals, navigating through a complex web of relationships, ambitions, and challenges.
+
+","photo4":"https://iili.io/HDHGjZ7.webp"},
+  {"desc5":"Every engaging game is built upon a foundation of storytelling, and "Barvikha" might weave a tapestry of narratives that captivates its players. From intricate political plots to personal quests for redemption, the stories within "Barvikha" could span a wide range of genres, catering to the preferences of various players. The game could introduce players to a society with its own history, conflicts, and alliances, adding layers of depth to the overall experience.
+
+","photo5":"https://iili.io/HDHGhjS.webp"},
+  {"descd":"Every engaging game is built upon a foundation of storytelling, and "Barvikha" might weave a tapestry of narratives that captivates its players. From intricate political plots to personal quests for redemption, the stories within "Barvikha" could span a wide range of genres, catering to the preferences of various players. The game could introduce players to a society with its own history, conflicts, and alliances, adding layers of depth to the overall experience.
+
+","photod":"https://iili.io/HDHGe6u.webp"}
    ]
  
 }
